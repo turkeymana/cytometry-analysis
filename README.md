@@ -2,6 +2,8 @@
 
 This project analyzes clinical cytometry data and provides an interactive dashboard for exploration.
 
+Message from Callum: Sorry for this being late, I was unable to gain access to a computer over the weekend and programming on my phone was making me tear my hair out. In total I spent about 2:30 on completing it. I was shocked how well Claude managed to get the initial requirements correct and didn't have to do too many modifications from there. I can't wait to continue to work with you in the future and maybe dive into interactome for these dashboards aswell.
+
 ## Quick Start
 
 ### 1. Environment Setup
