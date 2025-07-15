@@ -1,0 +1,17 @@
+Part 4: Baseline Melanoma Miraclib PBMC Analysis
+==================================================
+
+Total samples: 656
+Unique subjects: 656
+
+Samples by project:
+  prj1: 384
+  prj3: 272
+
+Subjects by response:
+  yes: 331
+  no: 325
+
+Subjects by gender:
+  M: 344
+  F: 312
